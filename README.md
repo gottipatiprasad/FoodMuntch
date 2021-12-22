@@ -1,2 +1,2 @@
 # FoodMuntch
-https://gottipatiprasad.github.io/FoodMuntch/
+https://gottipatiprasad.github.io/FoodMuntch/FoodMuntch.html
